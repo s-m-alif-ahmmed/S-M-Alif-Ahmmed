@@ -17,12 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-m-alif-ahmmed&show_icons=true&locale=en" alt="s-m-alif-ahmmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-m-alif-ahmmed&" alt="s-m-alif-ahmmed" /></p>
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
